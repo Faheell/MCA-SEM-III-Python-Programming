@@ -1,4 +1,4 @@
-Str=input("Enter String : ")
+Str="ComputerScience"
 
 print("String according to indexing ")
 for i in range(0,len(Str)):
